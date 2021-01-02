@@ -44,4 +44,4 @@ class Spinner {
 }
 
 // Uncomment to run in react
-// export default Spinner;
+export default Spinner;

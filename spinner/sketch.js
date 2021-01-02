@@ -1,5 +1,5 @@
 // Uncomment to run in react
-// import Spinner from "./Spinner"
+import Spinner from "./Spinner"
 
 const sketch = (s) => {
 
@@ -77,7 +77,7 @@ const sketch = (s) => {
 };
 
 // Comment out to run in react
-let myp5 = new window.p5(sketch);
+// let myp5 = new window.p5(sketch);
 
 // Uncomment to run in react
-// export default sketch;
+export default sketch;
